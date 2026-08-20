@@ -50,6 +50,7 @@ import TextFeatureEight from "@/components/text-feature/text-feature-eight";
 import TextFeatureTen from "@/components/text-feature/text-freature-ten";
 import PopUpModal from "@/components/common/popup-model";
 import ImgPopUp from "@/components/common/img-popup";
+import TestimonialsSection from "@/components/testimonials";
 
 const backImg1 = {
   backgroundImage: `url('${bg_image1.src}')`,
@@ -174,6 +175,8 @@ export default function HomePage() {
           <PortfolioTwo />
 
           <AwardsSection />
+        <TestimonialsSection />
+        
         </main>
 
         <FooterOne />
