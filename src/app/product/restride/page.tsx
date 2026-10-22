@@ -58,7 +58,7 @@ const Restride = () => {
                     <p className="text-lg mt-20 lg-mt-10 mb-30">
                         Restride is our upcoming smart insole, built on the same
                         precision foot-pressure and gait-analysis technology behind
-                        our Podiascanner line. We're excited to bring this innovation
+                        our Podiascanner line. We&apos;re excited to bring this innovation
                         to life — full details are coming soon, so preorder now to be
                         among the first to experience it.
                     </p>
